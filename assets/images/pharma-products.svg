@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#edf5ff"/><stop offset=".5" stop-color="#d5e7fb"/><stop offset="1" stop-color="#b9d0ec"/></linearGradient>
+ <linearGradient id="table" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f8fbff"/><stop offset="1" stop-color="#dce8f6"/></linearGradient>
+ <linearGradient id="boxFront" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#eaf2fb"/></linearGradient>
+ <linearGradient id="blueFront" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2468b8"/><stop offset="1" stop-color="#0b46a3"/></linearGradient>
+ <linearGradient id="bottle" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#c9d9ec"/><stop offset=".4" stop-color="#fff"/><stop offset=".82" stop-color="#d8e5f3"/><stop offset="1" stop-color="#b1c8e2"/></linearGradient>
+ <filter id="shadow" x="-20%" y="-20%" width="150%" height="160%"><feDropShadow dx="0" dy="22" stdDeviation="22" flood-color="#19375d" flood-opacity=".22"/></filter>
+ <filter id="blur"><feGaussianBlur stdDeviation="34"/></filter>
+</defs>
+<rect width="1600" height="900" fill="url(#bg)"/>
+<circle cx="1260" cy="170" r="220" fill="#fff" opacity=".34" filter="url(#blur)"/>
+<circle cx="220" cy="680" r="240" fill="#8fb8e8" opacity=".18" filter="url(#blur)"/>
+<path d="M0 570 C320 515 530 590 810 555 S1300 510 1600 558 V900 H0Z" fill="url(#table)"/>
+<ellipse cx="800" cy="735" rx="570" ry="74" fill="#436a9b" opacity=".18" filter="url(#blur)"/>
+<g filter="url(#shadow)">
+ <!-- left tall carton -->
+ <path d="M245 300 L385 255 L525 302 L386 352Z" fill="#e5edf7" stroke="#c3d5e9" stroke-width="3"/>
+ <path d="M245 300 L386 352 L386 674 L245 622Z" fill="url(#boxFront)" stroke="#c3d5e9" stroke-width="3"/>
+ <path d="M386 352 L525 302 L525 623 L386 674Z" fill="#d4e4f5" stroke="#b6cbe4" stroke-width="3"/>
+ <path d="M245 420 L386 469 L386 525 L245 476Z" fill="url(#blueFront)"/>
+ <path d="M386 469 L525 420 L525 474 L386 525Z" fill="#0c438b"/>
+ <rect x="282" y="365" width="64" height="8" rx="4" fill="#b1c5dd" transform="rotate(20 282 365)"/>
+ <text x="276" y="435" font-size="24" font-family="Arial,sans-serif" font-weight="700" fill="#fff" transform="rotate(20 276 435)">PHARMA</text>
+ <text x="278" y="500" font-size="18" font-family="Arial,sans-serif" font-weight="600" fill="#fff" transform="rotate(20 278 500)">TABLETS</text>
+ <!-- central white carton -->
+ <path d="M500 375 L650 330 L810 378 L659 428Z" fill="#e2ebf6" stroke="#c7d7e9" stroke-width="3"/>
+ <path d="M500 375 L659 428 L659 710 L500 658Z" fill="#fff" stroke="#c7d7e9" stroke-width="3"/>
+ <path d="M659 428 L810 378 L810 660 L659 710Z" fill="#dfeaf7" stroke="#c0d2e8" stroke-width="3"/>
+ <path d="M500 505 L659 559 L659 600 L500 547Z" fill="#2080c8"/>
+ <path d="M659 559 L810 509 L810 550 L659 600Z" fill="#1465ad"/>
+ <text x="536" y="523" font-size="22" font-family="Arial,sans-serif" font-weight="700" fill="#fff" transform="rotate(19 536 523)">HEALTH</text>
+ <text x="535" y="578" font-size="16" font-family="Arial,sans-serif" font-weight="600" fill="#fff" transform="rotate(19 535 578)">CARE RANGE</text>
+ <!-- right low carton -->
+ <path d="M800 460 L935 420 L1067 460 L931 504Z" fill="#edf3fa" stroke="#c4d6ea" stroke-width="3"/>
+ <path d="M800 460 L931 504 L931 715 L800 674Z" fill="url(#boxFront)" stroke="#c4d6ea" stroke-width="3"/>
+ <path d="M931 504 L1067 460 L1067 672 L931 715Z" fill="#cfdef0" stroke="#b9cee7" stroke-width="3"/>
+ <path d="M800 540 L931 583 L931 620 L800 578Z" fill="#6a9ad3"/>
+ <path d="M931 583 L1067 539 L1067 576 L931 620Z" fill="#3a77be"/>
+ <text x="823" y="560" font-size="18" font-family="Arial,sans-serif" font-weight="700" fill="#fff" transform="rotate(18 823 560)">VITAMINS</text>
+ <!-- medicine bottle -->
+ <g>
+  <rect x="1094" y="344" width="176" height="56" rx="12" fill="#0e4c91"/>
+  <rect x="1103" y="385" width="158" height="292" rx="30" fill="url(#bottle)" stroke="#b5c9df" stroke-width="4"/>
+  <path d="M1114 445 Q1180 420 1250 447 L1250 570 Q1183 594 1114 569Z" fill="#fff" opacity=".94"/>
+  <rect x="1117" y="470" width="130" height="27" rx="7" fill="#0b46a3"/>
+  <text x="1182" y="489" text-anchor="middle" font-size="16" font-family="Arial,sans-serif" font-weight="700" fill="#fff">MEDICAL</text>
+  <text x="1182" y="520" text-anchor="middle" font-size="13" font-family="Arial,sans-serif" fill="#23476e">PRODUCTS</text>
+  <path d="M1121 543 H1243" stroke="#a8c2df" stroke-width="3"/>
+  <path d="M1121 556 H1229" stroke="#a8c2df" stroke-width="3"/>
+ </g>
+ <!-- blister strip and capsules foreground -->
+ <g transform="rotate(-9 740 735)">
+  <rect x="630" y="698" width="270" height="90" rx="18" fill="#eaf1fa" stroke="#bdcee3" stroke-width="4"/>
+  <g fill="#fff" stroke="#b3c8e1" stroke-width="3">
+   <ellipse cx="669" cy="729" rx="17" ry="21"/><ellipse cx="720" cy="729" rx="17" ry="21"/><ellipse cx="771" cy="729" rx="17" ry="21"/><ellipse cx="822" cy="729" rx="17" ry="21"/>
+   <ellipse cx="669" cy="763" rx="17" ry="12"/><ellipse cx="720" cy="763" rx="17" ry="12"/><ellipse cx="771" cy="763" rx="17" ry="12"/><ellipse cx="822" cy="763" rx="17" ry="12"/>
+  </g>
+ </g>
+ <g transform="rotate(22 1050 770)"><rect x="995" y="748" width="130" height="42" rx="21" fill="#fff" stroke="#9fb8d6" stroke-width="3"/><path d="M1060 749 V789" stroke="#0b46a3" stroke-width="3"/><path d="M995 769 a21 21 0 0 1 21 -21 h44 v42 h-44 a21 21 0 0 1 -21 -21Z" fill="#0b46a3"/></g>
+ <g transform="rotate(-18 1160 780)"><rect x="1110" y="759" width="112" height="38" rx="19" fill="#fff" stroke="#9fb8d6" stroke-width="3"/><path d="M1166 759 V797" stroke="#0b46a3" stroke-width="3"/><path d="M1110 778 a19 19 0 0 1 19 -19 h37 v38 h-37 a19 19 0 0 1 -19 -19Z" fill="#0b46a3"/></g>
+</g>
+<g opacity=".4" stroke="#fff" stroke-width="3"><path d="M85 115 H300"/><path d="M1280 105 H1515"/><path d="M1320 145 H1460"/></g>
+</svg>

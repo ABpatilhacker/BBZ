@@ -1,0 +1,465 @@
+/* MGS catalogue data. Product images are bundled locally so the catalogue does not depend on remote image hosts. */
+window.MGS_CATALOG = [
+  {
+    "id": "win11-pro-oem",
+    "title": "Win 11 Pro OEM",
+    "category": "software",
+    "group": "Microsoft Licenses",
+    "badge": "Windows",
+    "image": "assets/images/products/win11-pro-oem.jpg",
+    "short": "Windows 11 Pro OEM licence listing.",
+    "description": "Windows 11 Pro for the OEM format shown in this listing. MGS supplies the applicable product key and activation guidance for the confirmed edition. Before ordering, confirm that the target computer is eligible for Windows 11 and review the device-binding, activation and transfer conditions applicable to the supplied licence.",
+    "highlights": [
+      "Windows 11 Pro edition",
+      "OEM delivery channel",
+      "Device eligibility and applicable licence conditions confirmed before fulfilment"
+    ],
+    "licenseNote": "Activation, device allocation, support and transfer conditions depend on the licence supplied. MGS will confirm the applicable terms and instructions before fulfilment.",
+    "sourceUrl": "",
+    "sourceLabel": "",
+    "priceEUR": null,
+    "priceINR": null,
+    "active": true
+  },
+  {
+    "id": "win11-pro-dvd",
+    "title": "Win 11 Pro DVD",
+    "category": "software",
+    "group": "Microsoft Licenses",
+    "badge": "DVD format",
+    "image": "assets/images/products/win11-pro-dvd.jpg",
+    "short": "Windows 11 Pro listing with DVD media format.",
+    "description": "Windows 11 Pro product listing with DVD media format indicated in the title. MGS will confirm the package contents, applicable product key and activation instructions before fulfilment. Check that the target computer meets Windows 11 system requirements.",
+    "highlights": [
+      "Windows 11 Pro edition",
+      "DVD media format indicated by this listing",
+      "Package contents and activation instructions confirmed before fulfilment"
+    ],
+    "licenseNote": "Activation, device allocation, support and transfer conditions depend on the licence supplied. MGS will confirm the applicable terms and instructions before fulfilment.",
+    "sourceUrl": "",
+    "sourceLabel": "",
+    "priceEUR": null,
+    "priceINR": null,
+    "active": true
+  },
+  {
+    "id": "win11-pro-usb",
+    "title": "Win 11 Pro USB",
+    "category": "software",
+    "group": "Microsoft Licenses",
+    "badge": "USB format",
+    "image": "assets/images/products/win11-pro-usb.jpg",
+    "short": "Windows 11 Pro listing with USB media format.",
+    "description": "Windows 11 Pro product listing with USB media format indicated in the title. MGS will confirm the package contents, applicable product key and activation instructions before fulfilment. Check that the target computer meets Windows 11 system requirements.",
+    "highlights": [
+      "Windows 11 Pro edition",
+      "USB media format indicated by this listing",
+      "Package contents and activation instructions confirmed before fulfilment"
+    ],
+    "licenseNote": "Activation, device allocation, support and transfer conditions depend on the licence supplied. MGS will confirm the applicable terms and instructions before fulfilment.",
+    "sourceUrl": "",
+    "sourceLabel": "",
+    "priceEUR": null,
+    "priceINR": null,
+    "active": true
+  },
+  {
+    "id": "office-2024-pro",
+    "title": "Office 2024 Pro",
+    "category": "software",
+    "group": "Microsoft Licenses",
+    "badge": "Professional edition",
+    "image": "assets/images/products/office-professional-plus-2024.jpg",
+    "short": "Office 2024 professional-edition listing.",
+    "description": "Office 2024 professional-edition listing from MGS. The included applications and licence channel depend on the product edition supplied. MGS will confirm the edition, product key delivery and activation instructions before fulfilment.",
+    "highlights": [
+      "Office 2024 professional-edition listing",
+      "Digital product-key delivery, subject to confirmation with the order",
+      "Edition, device eligibility and activation guidance confirmed before fulfilment"
+    ],
+    "licenseNote": "Activation, duration, device allocation, account association and transfer conditions depend on the licence supplied. MGS will confirm the applicable terms and instructions before fulfilment.",
+    "sourceUrl": "",
+    "sourceLabel": "",
+    "priceEUR": null,
+    "priceINR": null,
+    "active": true
+  },
+  {
+    "id": "office-2024-pro-box",
+    "title": "Office 2024 Pro Box",
+    "category": "software",
+    "group": "Microsoft Licenses",
+    "badge": "Boxed format",
+    "image": "assets/images/products/office-2024-pro-box-product.jpg",
+    "short": "Office 2024 professional-edition listing in boxed format.",
+    "description": "Office 2024 professional-edition listing in the boxed format indicated by the title. The physical package and the licence supplied with it determine the included media, product key and activation route. MGS will confirm these details before fulfilment.",
+    "highlights": [
+      "Office 2024 professional-edition listing",
+      "Boxed format indicated by this listing",
+      "Package contents and activation guidance confirmed before fulfilment"
+    ],
+    "licenseNote": "Activation, duration, device allocation, account association and transfer conditions depend on the licence supplied. MGS will confirm the applicable terms and instructions before fulfilment.",
+    "sourceUrl": "",
+    "sourceLabel": "",
+    "priceEUR": null,
+    "priceINR": null,
+    "active": true
+  },
+  {
+    "id": "office-24-home-online",
+    "title": "Office 2024 Home Online",
+    "category": "software",
+    "group": "Microsoft Licenses",
+    "badge": "Online delivery",
+    "image": "assets/images/products/office-2024-home-online-product.jpg",
+    "short": "Office 2024 Home listing with online delivery.",
+    "description": "Office 2024 Home listing with online delivery indicated by the title. MGS will confirm the edition, delivery method, Microsoft account requirements and activation instructions applicable to the product supplied.",
+    "highlights": [
+      "Office 2024 Home catalogue listing",
+      "Online delivery format indicated by this listing",
+      "Account requirements and activation guidance confirmed before fulfilment"
+    ],
+    "licenseNote": "Activation, duration, device allocation, account association and transfer conditions depend on the licence supplied. MGS will confirm the applicable terms and instructions before fulfilment.",
+    "sourceUrl": "",
+    "sourceLabel": "",
+    "priceEUR": null,
+    "priceINR": null,
+    "active": true
+  },
+  {
+    "id": "office-24-home-bind",
+    "title": "Office 2024 Home Bind",
+    "category": "software",
+    "group": "Microsoft Licenses",
+    "badge": "Account binding",
+    "image": "assets/images/products/office-24-home-bind.jpg",
+    "short": "Office 2024 Home listing with account-binding format.",
+    "description": "Office 2024 Home listing with account-binding format indicated by the title. The account association and activation process depend on the licence supplied. MGS will confirm the relevant requirements and instructions before fulfilment.",
+    "highlights": [
+      "Office 2024 Home catalogue listing",
+      "Account-binding format indicated by this listing",
+      "Account association and activation guidance confirmed before fulfilment"
+    ],
+    "licenseNote": "Activation, duration, device allocation, account association and transfer conditions depend on the licence supplied. MGS will confirm the applicable terms and instructions before fulfilment.",
+    "sourceUrl": "",
+    "sourceLabel": "",
+    "priceEUR": null,
+    "priceINR": null,
+    "active": true
+  },
+  {
+    "id": "o-24hb-bind-email",
+    "title": "Office 2024 H & B Bind Email",
+    "category": "software",
+    "group": "Microsoft Licenses",
+    "badge": "Email delivery",
+    "image": "assets/images/products/o-24hb-bind-email.jpg",
+    "short": "Office 2024 Home & Business listing with email delivery.",
+    "description": "Office 2024 Home & Business catalogue listing with email delivery indicated by the title. MGS will confirm the exact edition, what is delivered by email, any account association and the activation steps before fulfilment.",
+    "highlights": [
+      "Office 2024 Home & Business catalogue listing",
+      "Email delivery format indicated by this listing",
+      "Edition and activation instructions confirmed before fulfilment"
+    ],
+    "licenseNote": "Activation, duration, device allocation, account association and transfer conditions depend on the licence supplied. MGS will confirm the applicable terms and instructions before fulfilment.",
+    "sourceUrl": "",
+    "sourceLabel": "",
+    "priceEUR": null,
+    "priceINR": null,
+    "active": true
+  },
+  {
+    "id": "o-24hb-bind-box-cd",
+    "title": "Office 2024 H & B Bind Box",
+    "category": "software",
+    "group": "Microsoft Licenses",
+    "badge": "Boxed format",
+    "image": "assets/images/products/o-24hb-bind-box-cd.jpg",
+    "short": "Office 2024 Home & Business listing in boxed format.",
+    "description": "Office 2024 Home & Business catalogue listing in the boxed format indicated by the title. MGS will confirm the physical package contents, applicable product key and activation instructions before fulfilment.",
+    "highlights": [
+      "Office 2024 Home & Business catalogue listing",
+      "Boxed format indicated by this listing",
+      "Package contents and activation instructions confirmed before fulfilment"
+    ],
+    "licenseNote": "Activation, duration, device allocation, account association and transfer conditions depend on the licence supplied. MGS will confirm the applicable terms and instructions before fulfilment.",
+    "sourceUrl": "",
+    "sourceLabel": "",
+    "priceEUR": null,
+    "priceINR": null,
+    "active": true
+  },
+  {
+    "id": "office-2021-pro",
+    "title": "Office 2021 Pro",
+    "category": "software",
+    "group": "Microsoft Licenses",
+    "badge": "Professional edition",
+    "image": "assets/images/products/office-2021-pro.jpg",
+    "short": "Office 2021 professional-edition listing.",
+    "description": "Office 2021 professional-edition listing from MGS. The exact included applications and licence channel depend on the edition supplied. MGS will confirm the product key delivery and activation instructions before fulfilment.",
+    "highlights": [
+      "Office 2021 professional-edition listing",
+      "Edition and product-key delivery confirmed with the order",
+      "Activation guidance provided for the product supplied"
+    ],
+    "licenseNote": "Activation, duration, device allocation, account association and transfer conditions depend on the licence supplied. MGS will confirm the applicable terms and instructions before fulfilment.",
+    "sourceUrl": "",
+    "sourceLabel": "",
+    "priceEUR": null,
+    "priceINR": null,
+    "active": true
+  },
+  {
+    "id": "office-2021-pro-box",
+    "title": "Office 2021 Pro Box",
+    "category": "software",
+    "group": "Microsoft Licenses",
+    "badge": "Boxed format",
+    "image": "assets/images/products/office-2021-pro-box.jpg",
+    "short": "Office 2021 professional-edition listing in boxed format.",
+    "description": "Office 2021 professional-edition listing in the boxed format indicated by the title. The package and licence supplied determine the included media, product key and activation route. MGS will confirm these details before fulfilment.",
+    "highlights": [
+      "Office 2021 professional-edition listing",
+      "Boxed format indicated by this listing",
+      "Package contents and activation guidance confirmed before fulfilment"
+    ],
+    "licenseNote": "Activation, duration, device allocation, account association and transfer conditions depend on the licence supplied. MGS will confirm the applicable terms and instructions before fulfilment.",
+    "sourceUrl": "",
+    "sourceLabel": "",
+    "priceEUR": null,
+    "priceINR": null,
+    "active": true
+  },
+  {
+    "id": "office-2026",
+    "title": "Office 2026",
+    "category": "software",
+    "group": "Microsoft Licenses",
+    "badge": "Enquire first",
+    "image": "assets/images/products/office-2026-enquiry-artwork.svg",
+    "short": "Contact MGS to confirm current availability and the exact edition before ordering.",
+    "description": "Office 2026 is shown under the product name supplied to MGS. Current availability and the exact Microsoft edition have not been independently confirmed. Please contact MGS before ordering so the product supplied, delivery method, activation process and applicable licence terms can be confirmed.",
+    "highlights": [
+      "Product name displayed as supplied to MGS",
+      "Availability and exact edition require confirmation",
+      "Delivery and activation details confirmed before an order is accepted"
+    ],
+    "licenseNote": "Do not rely on an activation, duration, device allocation or transfer condition until MGS has confirmed the exact product and applicable licence terms.",
+    "sourceUrl": "",
+    "sourceLabel": "",
+    "priceEUR": null,
+    "priceINR": null,
+    "active": true
+  },
+  {
+    "id": "sata-ssd-128gb",
+    "title": "SSD SATA 2.5 inch — 128 GB",
+    "category": "storage",
+    "group": "Storage",
+    "badge": "2.5-inch SATA",
+    "image": "assets/images/products/sata-ssd-128gb.jpg",
+    "short": "2.5-inch SATA solid-state drive in 128 GB capacity.",
+    "description": "A 2.5-inch SATA solid-state drive in the selected 128 GB capacity. It is intended for a desktop or laptop that supports a 2.5-inch SATA drive. Actual SATA generation, performance, NAND type, endurance rating, warranty and included accessories depend on the final manufacturer/model selected by MGS and will be confirmed before purchase.",
+    "highlights": [
+      "Capacity: 128 GB",
+      "2.5-inch form factor",
+      "SATA interface — confirm the host device supports a 2.5-inch SATA drive"
+    ],
+    "licenseNote": "Not applicable. Storage performance and warranty are model-specific; no speed or warranty is promised without the exact model.",
+    "sourceUrl": "",
+    "sourceLabel": "Model details confirmed on quotation",
+    "priceEUR": null,
+    "priceINR": null,
+    "active": true
+  },
+  {
+    "id": "sata-ssd-256gb",
+    "title": "SSD SATA 2.5 inch — 256 GB",
+    "category": "storage",
+    "group": "Storage",
+    "badge": "2.5-inch SATA",
+    "image": "assets/images/products/sata-ssd-256gb.jpg",
+    "short": "2.5-inch SATA solid-state drive in 256 GB capacity.",
+    "description": "A 2.5-inch SATA solid-state drive in the selected 256 GB capacity. It is intended for a desktop or laptop that supports a 2.5-inch SATA drive. Actual SATA generation, performance, NAND type, endurance rating, warranty and included accessories depend on the final manufacturer/model selected by MGS and will be confirmed before purchase.",
+    "highlights": [
+      "Capacity: 256 GB",
+      "2.5-inch form factor",
+      "SATA interface — confirm the host device supports a 2.5-inch SATA drive"
+    ],
+    "licenseNote": "Not applicable. Storage performance and warranty are model-specific; no speed or warranty is promised without the exact model.",
+    "sourceUrl": "",
+    "sourceLabel": "Model details confirmed on quotation",
+    "priceEUR": null,
+    "priceINR": null,
+    "active": true
+  },
+  {
+    "id": "sata-ssd-512gb",
+    "title": "SSD SATA 2.5 inch — 512 GB",
+    "category": "storage",
+    "group": "Storage",
+    "badge": "2.5-inch SATA",
+    "image": "assets/images/products/sata-ssd-studio.jpg",
+    "short": "2.5-inch SATA solid-state drive in 512 GB capacity.",
+    "description": "A 2.5-inch SATA solid-state drive in the selected 512 GB capacity. It is intended for a desktop or laptop that supports a 2.5-inch SATA drive. Actual SATA generation, performance, NAND type, endurance rating, warranty and included accessories depend on the final manufacturer/model selected by MGS and will be confirmed before purchase.",
+    "highlights": [
+      "Capacity: 512 GB",
+      "2.5-inch form factor",
+      "SATA interface — confirm the host device supports a 2.5-inch SATA drive"
+    ],
+    "licenseNote": "Not applicable. Storage performance and warranty are model-specific; no speed or warranty is promised without the exact model.",
+    "sourceUrl": "",
+    "sourceLabel": "Model details confirmed on quotation",
+    "priceEUR": null,
+    "priceINR": null,
+    "active": true
+  },
+  {
+    "id": "sata-ssd-1tb",
+    "title": "SSD SATA 2.5 inch — 1 TB",
+    "category": "storage",
+    "group": "Storage",
+    "badge": "2.5-inch SATA",
+    "image": "assets/images/products/sata-ssd-1tb.jpg",
+    "short": "2.5-inch SATA solid-state drive in 1 TB capacity.",
+    "description": "A 2.5-inch SATA solid-state drive in the selected 1 TB capacity. It is intended for a desktop or laptop that supports a 2.5-inch SATA drive. Actual SATA generation, performance, NAND type, endurance rating, warranty and included accessories depend on the final manufacturer/model selected by MGS and will be confirmed before purchase.",
+    "highlights": [
+      "Capacity: 1 TB",
+      "2.5-inch form factor",
+      "SATA interface — confirm the host device supports a 2.5-inch SATA drive"
+    ],
+    "licenseNote": "Not applicable. Storage performance and warranty are model-specific; no speed or warranty is promised without the exact model.",
+    "sourceUrl": "",
+    "sourceLabel": "Model details confirmed on quotation",
+    "priceEUR": null,
+    "priceINR": null,
+    "active": true
+  },
+  {
+    "id": "sata-ssd-2tb",
+    "title": "SSD SATA 2.5 inch — 2 TB",
+    "category": "storage",
+    "group": "Storage",
+    "badge": "2.5-inch SATA",
+    "image": "assets/images/products/sata-ssd-2tb.jpg",
+    "short": "2.5-inch SATA solid-state drive in 2 TB capacity.",
+    "description": "A 2.5-inch SATA solid-state drive in the selected 2 TB capacity. It is intended for a desktop or laptop that supports a 2.5-inch SATA drive. Actual SATA generation, performance, NAND type, endurance rating, warranty and included accessories depend on the final manufacturer/model selected by MGS and will be confirmed before purchase.",
+    "highlights": [
+      "Capacity: 2 TB",
+      "2.5-inch form factor",
+      "SATA interface — confirm the host device supports a 2.5-inch SATA drive"
+    ],
+    "licenseNote": "Not applicable. Storage performance and warranty are model-specific; no speed or warranty is promised without the exact model.",
+    "sourceUrl": "",
+    "sourceLabel": "Model details confirmed on quotation",
+    "priceEUR": null,
+    "priceINR": null,
+    "active": true
+  },
+  {
+    "id": "nvme-gen3-2280-128gb",
+    "title": "SSD M.2 NVMe 3.0 2280 — 128 GB",
+    "category": "storage",
+    "group": "Storage",
+    "badge": "M.2 2280 / PCIe 3.0",
+    "image": "assets/images/products/mgs-m2-studio.jpg",
+    "short": "M.2 2280 NVMe PCIe 3.0 solid-state drive in 128 GB capacity.",
+    "description": "An M.2 2280 NVMe solid-state drive in the selected 128 GB capacity, labelled PCIe 3.0 in the MGS catalogue. Check that the target computer supports NVMe over PCIe in the M.2 2280 format; an M.2 slot that supports SATA-only drives may not be compatible. Exact speed, endurance, NAND type and warranty depend on the manufacturer/model selected.",
+    "highlights": [
+      "Capacity: 128 GB",
+      "M.2 2280 form factor",
+      "NVMe PCIe 3.0 label — host compatibility must be checked"
+    ],
+    "licenseNote": "Not applicable. Speeds, endurance and warranty are model-specific and require the exact manufacturer/model.",
+    "sourceUrl": "",
+    "sourceLabel": "Model details confirmed on quotation",
+    "priceEUR": null,
+    "priceINR": null,
+    "active": true
+  },
+  {
+    "id": "nvme-gen3-2280-256gb",
+    "title": "SSD M.2 NVMe 3.0 2280 — 256 GB",
+    "category": "storage",
+    "group": "Storage",
+    "badge": "M.2 2280 / PCIe 3.0",
+    "image": "assets/images/products/mgs-m2-studio.jpg",
+    "short": "M.2 2280 NVMe PCIe 3.0 solid-state drive in 256 GB capacity.",
+    "description": "An M.2 2280 NVMe solid-state drive in the selected 256 GB capacity, labelled PCIe 3.0 in the MGS catalogue. Check that the target computer supports NVMe over PCIe in the M.2 2280 format; an M.2 slot that supports SATA-only drives may not be compatible. Exact speed, endurance, NAND type and warranty depend on the manufacturer/model selected.",
+    "highlights": [
+      "Capacity: 256 GB",
+      "M.2 2280 form factor",
+      "NVMe PCIe 3.0 label — host compatibility must be checked"
+    ],
+    "licenseNote": "Not applicable. Speeds, endurance and warranty are model-specific and require the exact manufacturer/model.",
+    "sourceUrl": "",
+    "sourceLabel": "Model details confirmed on quotation",
+    "priceEUR": null,
+    "priceINR": null,
+    "active": true
+  },
+  {
+    "id": "nvme-gen3-2280-512gb",
+    "title": "SSD M.2 NVMe 3.0 2280 — 512 GB",
+    "category": "storage",
+    "group": "Storage",
+    "badge": "M.2 2280 / PCIe 3.0",
+    "image": "assets/images/products/mgs-m2-studio.jpg",
+    "short": "M.2 2280 NVMe PCIe 3.0 solid-state drive in 512 GB capacity.",
+    "description": "An M.2 2280 NVMe solid-state drive in the selected 512 GB capacity, labelled PCIe 3.0 in the MGS catalogue. Check that the target computer supports NVMe over PCIe in the M.2 2280 format; an M.2 slot that supports SATA-only drives may not be compatible. Exact speed, endurance, NAND type and warranty depend on the manufacturer/model selected.",
+    "highlights": [
+      "Capacity: 512 GB",
+      "M.2 2280 form factor",
+      "NVMe PCIe 3.0 label — host compatibility must be checked"
+    ],
+    "licenseNote": "Not applicable. Speeds, endurance and warranty are model-specific and require the exact manufacturer/model.",
+    "sourceUrl": "",
+    "sourceLabel": "Model details confirmed on quotation",
+    "priceEUR": null,
+    "priceINR": null,
+    "active": true
+  },
+  {
+    "id": "nvme-gen3-2280-1tb",
+    "title": "SSD M.2 NVMe 3.0 2280 — 1 TB",
+    "category": "storage",
+    "group": "Storage",
+    "badge": "M.2 2280 / PCIe 3.0",
+    "image": "assets/images/products/mgs-m2-studio.jpg",
+    "short": "M.2 2280 NVMe PCIe 3.0 solid-state drive in 1 TB capacity.",
+    "description": "An M.2 2280 NVMe solid-state drive in the selected 1 TB capacity, labelled PCIe 3.0 in the MGS catalogue. Check that the target computer supports NVMe over PCIe in the M.2 2280 format; an M.2 slot that supports SATA-only drives may not be compatible. Exact speed, endurance, NAND type and warranty depend on the manufacturer/model selected.",
+    "highlights": [
+      "Capacity: 1 TB",
+      "M.2 2280 form factor",
+      "NVMe PCIe 3.0 label — host compatibility must be checked"
+    ],
+    "licenseNote": "Not applicable. Speeds, endurance and warranty are model-specific and require the exact manufacturer/model.",
+    "sourceUrl": "",
+    "sourceLabel": "Model details confirmed on quotation",
+    "priceEUR": null,
+    "priceINR": null,
+    "active": true
+  },
+  {
+    "id": "nvme-gen3-2280-2tb",
+    "title": "SSD M.2 NVMe 3.0 2280 — 2 TB",
+    "category": "storage",
+    "group": "Storage",
+    "badge": "M.2 2280 / PCIe 3.0",
+    "image": "assets/images/products/mgs-m2-studio.jpg",
+    "short": "M.2 2280 NVMe PCIe 3.0 solid-state drive in 2 TB capacity.",
+    "description": "An M.2 2280 NVMe solid-state drive in the selected 2 TB capacity, labelled PCIe 3.0 in the MGS catalogue. Check that the target computer supports NVMe over PCIe in the M.2 2280 format; an M.2 slot that supports SATA-only drives may not be compatible. Exact speed, endurance, NAND type and warranty depend on the manufacturer/model selected.",
+    "highlights": [
+      "Capacity: 2 TB",
+      "M.2 2280 form factor",
+      "NVMe PCIe 3.0 label — host compatibility must be checked"
+    ],
+    "licenseNote": "Not applicable. Speeds, endurance and warranty are model-specific and require the exact manufacturer/model.",
+    "sourceUrl": "",
+    "sourceLabel": "Model details confirmed on quotation",
+    "priceEUR": null,
+    "priceINR": null,
+    "active": true
+  }
+];
